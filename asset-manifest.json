@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LSFWordle/static/css/main.28806ea4.css",
+    "main.js": "/LSFWordle/static/js/main.b185f1a6.js",
+    "index.html": "/LSFWordle/index.html",
+    "main.28806ea4.css.map": "/LSFWordle/static/css/main.28806ea4.css.map",
+    "main.b185f1a6.js.map": "/LSFWordle/static/js/main.b185f1a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28806ea4.css",
+    "static/js/main.b185f1a6.js"
+  ]
+}
